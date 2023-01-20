@@ -1,0 +1,55 @@
+.first {
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   background-image: url("https://th.bing.com/th/id/R.bb5055991e3788e723129b3a95cd64d1?rik=EXKmJypFbyC9cQ&pid=ImgRaw&r=0");
+   color: white;
+   height: 600px;
+   text-align: center;
+}
+
+.welcome, .login {
+    padding-top: 50px;
+    font-size: 450% !important;
+    font-weight: bold;
+}
+.register {
+    color: white;
+    height: 600px;
+background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   background-image: url("https://th.bing.com/th/id/R.bfc47482318133fce0328231a97d960f?rik=MtVs1QdGAqxC6g&pid=ImgRaw&r=0");
+}
+.reg, login {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 300% !important;
+    font-weight: bold;
+}
+
+.reg_form, .login_form {
+    padding-top: 50px;
+}
+
+.login_head {
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   background-image: url("https://th.bing.com/th/id/R.bb5055991e3788e723129b3a95cd64d1?rik=EXKmJypFbyC9cQ&pid=ImgRaw&r=0");
+   color: white;
+   height: 550px;
+}
+
+.login {
+    text-align: center;
+    color: white;
+}
+
+.about_head {
+    text-align: center;
+}
+
+.h5 {
+    font-size: 300% !important;
+}
